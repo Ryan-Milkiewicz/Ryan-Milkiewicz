@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryan-Milkiewicz
-- 👀 I’m interested in Frontend Development, Javascript and Typescript
-- 🌱 I’m currently learning React and NextJS
+- 👀 Fullstack Developer with experience in Angular and .NET Core
+- 🌱 I’m currently learning React, NextJS, and Node
 - 📫 How to reach me - ryanmilkiewicz@gmail.com
 
 <!---
