@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ryan-Milkiewicz
 - ❤️ Javascript
-- 👀 Fullstack Developer with experience in Angular and .NET Core Web Api
+- 👀 Fullstack Developer with experience in React, Angular and .NET Core Web Api
 - 🌱 Interested in React, NextJS, and NodeJS
 - 📫 How to reach me - ryanmilkiewicz@gmail.com
 
